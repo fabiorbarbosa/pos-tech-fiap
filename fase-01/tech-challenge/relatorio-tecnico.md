@@ -17,7 +17,7 @@
 Os artefatos principais deste projeto podem ser acessados nos links abaixo:
 
 - **Repositório Git:** [https://github.com/fabiorbarbosa/tech-challenge-01](https://github.com/fabiorbarbosa/tech-challenge-01)
-- **Vídeo de demonstração:** [colocar link do vídeo]
+- **Vídeo de demonstração:** [https://vimeo.com/1189213606](https://vimeo.com/1189213606)
 <div style="page-break-after: always;"></div>
 
 ## 1. Introdução

@@ -1,83 +1,96 @@
-# Pós Tech - 9IADT - IA para Devs
+# Pós Tech FIAP - IA para Devs
 
-## Tech Challenge B
+Este repositório organiza os entregáveis, estudos e projetos desenvolvidos ao longo da pós-graduação **IA para Devs**, da **FIAP**.
 
-## Problema
+## Sobre a pós-graduação
 
-Este projeto propõe uma solução inicial de apoio à triagem médica por meio de classificação binária para indicativo de diabetes, utilizando dados clínicos tabulares.
+De acordo com a descrição oficial do curso, a pós é voltada para desenvolvimento de soluções com Inteligência Artificial, Machine Learning, NLP, GenAI, LLMs e serviços em nuvem. A jornada é dividida em **5 fases**, o **Tech Challenge** funciona como o projeto principal da formação, evoluindo fase após fase.
 
-## Dataset
+De forma resumida, a trilha inclui:
 
-- Nome: `Diabetes Dataset`
-- Fonte: [Kaggle - mathchi/diabetes-data-set](https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data)
-- Arquivo utilizado: [dataset/diabetes.csv](./dataset/diabetes.csv)
-- Variável-alvo: `Outcome`
-
-## Objetivo da solução
-
-Treinar e avaliar modelos de Machine Learning capazes de prever a variável `Outcome` a partir de atributos clínicos como glicose, pressão arterial, insulina, IMC e idade.
+- fundamentos de Inteligência Artificial e Machine Learning;
+- visão computacional;
+- processamento de linguagem natural;
+- desenvolvimento de ML em nuvem;
+- LLMs, OpenAI, LangChain e LangGraph;
+- análise de dados multimodais;
+- privacidade, segurança de dados e aplicações práticas.
 
 ## Estrutura do repositório
 
-- [dataset](./dataset): base utilizada no projeto.
-- [notebooks](./notebooks): notebooks finais da análise e da modelagem.
-- [figures](./figures): espaço para gráficos exportados.
-- [results](./results): espaço para tabelas e artefatos finais.
-- [Dockerfile](./Dockerfile): ambiente reprodutível para execução.
-
-## Notebooks principais
-
-- [01-exploracao-e-preprocessamento-final.ipynb](./notebooks/01-exploracao-e-preprocessamento-final.ipynb)
-- [02-modelagem-avaliacao-e-interpretabilidade-final.ipynb](./notebooks/02-modelagem-avaliacao-e-interpretabilidade-final.ipynb)
-
-## Como executar localmente
-
-1. Crie um ambiente virtual Python 3.12.
-2. Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Abra o Jupyter Lab ou Jupyter Notebook:
-
-```bash
-jupyter lab
-```
-
-4. Execute os notebooks na ordem:
+Este repositório foi organizado para acompanhar a evolução da pós ao longo das cinco fases.
 
 ```text
-1. 01-exploracao-e-preprocessamento-final.ipynb
-2. 02-modelagem-avaliacao-e-interpretabilidade-final.ipynb
+.
+├── fase-01/
+│   └── tech-challenge/
+├── fase-02/
+├── fase-03/
+├── fase-04/
+└── fase-05/
 ```
 
-## Como executar com Docker
+### Convenção adotada
 
-1. Construa a imagem:
+- Cada diretório `fase-0X` representa uma fase da pós.
+- Dentro de cada fase podem existir:
+  - `tech-challenge/`
+  - `atividades/`
+  - `anotacoes/`
+  - `projetos/`
+- O material pode incluir:
+  - notebooks;
+  - relatórios técnicos;
+  - datasets ou links para obtenção dos dados;
+  - resultados exportados;
+  - arquivos de execução, como `README.md`, `Dockerfile` e `requirements.txt`.
 
-```bash
-docker build -t tech-challenge-b .
-```
+## Status atual do repositório
 
-2. Rode o container:
+No momento, o material consolidado neste repositório corresponde à **Fase 1**, no diretório:
 
-```bash
-docker run --rm -it -p 8888:8888 tech-challenge-b
-```
+- [fase-01/tech-challenge](./fase-01/tech-challenge)
 
-3. Acesse o Jupyter Lab em `http://localhost:8888`.
+Esse diretório contém a entrega completa do **Tech Challenge B**, incluindo:
 
-## Principais resultados esperados
+- notebooks finais;
+- relatório técnico;
+- PDF final;
+- dataset utilizado;
+- resultados e figuras exportadas;
+- ambiente reprodutível com `Dockerfile`.
 
-- análise exploratória com identificação de zeros clinicamente suspeitos;
-- estratégia de pré-processamento reproduzível;
-- comparação entre pelo menos dois modelos de classificação;
-- avaliação com `accuracy`, `recall` e `F1-score`;
-- matriz de confusão;
-- interpretabilidade com importância das variáveis e discussão crítica.
+## Fase 1 - Tech Challenge B
+
+O projeto da Fase 1 foi desenvolvido com foco em **classificação binária de indicativo de diabetes** a partir de dados clínicos tabulares.
+
+### Conteúdo principal
+
+- exploração e pré-processamento dos dados;
+- modelagem com comparação entre algoritmos;
+- avaliação com métricas adequadas ao contexto do problema;
+- análise de matriz de confusão;
+- interpretabilidade com importância das variáveis e SHAP;
+- discussão crítica sobre uso prático e limitações.
+
+### Acesso rápido
+
+- [README da Fase 1](./fase-01/tech-challenge/README.md)
+- [Relatório técnico em Markdown](./fase-01/tech-challenge/relatorio-tecnico.md)
+- [Relatório técnico em PDF](./fase-01/tech-challenge/relatorio-tecnico.pdf)
+- [Notebooks](./fase-01/tech-challenge/notebooks)
+
+## Objetivo deste repositório
+
+O objetivo deste repositório é centralizar a produção da pós-graduação em um único lugar, permitindo:
+
+- rastrear a evolução do Tech Challenge entre as fases;
+- manter os artefatos organizados por contexto e período;
+- facilitar consulta futura para portfólio;
+- documentar a jornada de aprendizado com foco prático.
 
 ## Observações
 
-- O uso proposto é de apoio à triagem, e não de substituição da decisão médica.
-- Os resultados devem ser interpretados à luz das limitações do dataset e do contexto acadêmico do experimento.
+- A estrutura foi pensada para crescer ao longo das próximas fases.
+- Nem todos os diretórios das fases seguintes precisam existir imediatamente; eles podem ser criados conforme a jornada evoluir.
+- O conteúdo da Fase 1 já está organizado em formato de entrega final.
