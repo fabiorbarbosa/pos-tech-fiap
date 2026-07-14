@@ -14,13 +14,10 @@
 
 ## Links da entrega
 
-Os artefatos principais deste projeto podem ser acessados nos links abaixo:
-
 - **Repositório Git:**
 [https://github.com/fabiorbarbosa/pos-tech-fiap/tree/main/fase-02/tech-challenge](https://github.com/fabiorbarbosa/pos-tech-fiap/tree/main/fase-02/tech-challenge)
 - **Vídeo de demonstração:**
-[https://vimeo.com/XXXXXXXX](https://vimeo.com/XXXXXXXX)
-<div style="page-break-after: always;"></div>
+[https://vimeo.com/](https://vimeo.com/)
 
 ## 1. Introdução
 
@@ -141,6 +138,13 @@ Resultados consolidados:
 
 O menor fitness foi obtido em `exp_3_more_population`, indicando melhor desempenho global segundo a função objetivo adotada. Embora essa configuração não tenha apresentado a menor distância total entre os cenários comparados, a diferença observada sugere que o ganho da população maior sobre as penalidades operacionais compensou o pequeno aumento de distância.
 
+Para facilitar a leitura dos experimentos, também foram gerados gráficos comparativos de `fitness` e distância total por configuração. Esses visuais reforçam a interpretação de que `exp_3_more_population` apresentou o melhor equilíbrio global segundo a função objetivo adotada, enquanto os demais experimentos permaneceram competitivos em distância total.
+
+<figure>
+  <img src="./figures/comparacao-experimentos-final.png" alt="Gráfico comparativo dos experimentos do algoritmo genético" width="900">
+  <figcaption>Figura 1. Comparação visual dos três experimentos principais, considerando fitness final e distância total.</figcaption>
+</figure>
+
 Na etapa final de avaliação, a solução consolidada apresentou:
 
 - `Best fitness`: `31519.0`
@@ -157,11 +161,42 @@ Distribuição final das rotas:
 
 O excesso residual de `0.83` em distância no veículo `scooter` foi tratado como desprezível para fins acadêmicos, dado o contexto de simulação e a comparabilidade preservada entre os experimentos.
 
+Além da tabela-resumo das rotas, foram produzidos gráficos complementares de distância por veículo, carga por veículo e distribuição da amostra por classe e prioridade. Esses artefatos ajudam a mostrar, de forma mais visual, que a `van` concentrou a maior distância e carga da solução final, enquanto a amostra permaneceu dominada por entregas classificadas como `insumos_medicos` e por prioridades altas.
+
+<figure>
+  <img src="./figures/distancia-por-veiculo-final.png" alt="Gráfico de distância por veículo" width="700">
+  <figcaption>Figura 2. Distância total percorrida por veículo na solução final consolidada.</figcaption>
+</figure>
+
+<figure>
+  <img src="./figures/carga-por-veiculo-final.png" alt="Gráfico de carga por veículo" width="700">
+  <figcaption>Figura 3. Distribuição da carga total entre os veículos da frota final.</figcaption>
+</figure>
+
+<figure>
+  <img src="./figures/distribuicao-amostra-final.png" alt="Gráfico de distribuição da amostra final" width="900">
+  <figcaption>Figura 4. Distribuição da amostra final por classe de entrega e por prioridade.</figcaption>
+</figure>
+
+<figure>
+  <img src="./figures/rotas-otimizadas-final-clean.png" alt="Mapa simplificado das rotas otimizadas por veículo" width="900">
+  <figcaption>Figura 5. Visualização das rotas otimizadas por veículo, com destaque para o depósito e a distribuição espacial das entregas.</figcaption>
+</figure>
+
+<figure>
+  <img src="./figures/convergencia-ga-final.png" alt="Gráfico de convergência do algoritmo genético" width="900">
+  <figcaption>Figura 6. Histórico de convergência do algoritmo genético ao longo das gerações da solução final.</figcaption>
+</figure>
+
 Resultados automáticos gerados pelo fluxo final:
 
 - `results/driver_instructions_final.md`
 - `results/operations_report_final.md`
 - `results/llm_prompt_final.txt`
+- `figures/comparacao-experimentos-final.png`
+- `figures/distancia-por-veiculo-final.png`
+- `figures/carga-por-veiculo-final.png`
+- `figures/distribuicao-amostra-final.png`
 - `figures/rotas-otimizadas-final-clean.png`
 - `figures/convergencia-ga-final.png`
 
