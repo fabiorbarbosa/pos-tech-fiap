@@ -1,0 +1,4 @@
+Order_ID,Agent_Age,Agent_Rating,Vehicle,Area,Weather,Traffic,Delivery_Time,Order_Date,Order_Time,Pickup_Time,Store_Latitude,Store_Longitude,Drop_Latitude,Drop_Longitude,Category
+ORD-001,29,4.8,Motorcycle,Urban,Sunny,High,48,2026-07-01,09:15,09:35,-23.5505,-46.6333,-23.5614,-46.6559,Grocery
+ORD-002,34,4.5,Van,Metropolitan,Rainy,Jam,81,2026-07-01,10:10,10:40,-23.5505,-46.6333,-23.5891,-46.6742,Home
+ORD-003,31,4.2,Scooter,Urban,Sunny,Low,36,2026-07-01,11:00,11:20,-23.5505,-46.6333,-23.5720,-46.6410,Electronics

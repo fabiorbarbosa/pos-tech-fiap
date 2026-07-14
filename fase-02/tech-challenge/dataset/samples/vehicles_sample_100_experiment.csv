@@ -1,0 +1,5 @@
+vehicle_id,capacity,max_distance
+motorcycle,65,140
+van,85,210
+scooter,65,140
+bicycle,46,120

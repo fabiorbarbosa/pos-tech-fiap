@@ -25,6 +25,7 @@ Este repositório foi organizado para acompanhar a evolução da pós ao longo d
 ├── fase-01/
 │   └── tech-challenge/
 ├── fase-02/
+│   └── tech-challenge/
 ├── fase-03/
 ├── fase-04/
 └── fase-05/
@@ -47,18 +48,12 @@ Este repositório foi organizado para acompanhar a evolução da pós ao longo d
 
 ## Status atual do repositório
 
-No momento, o material consolidado neste repositório corresponde à **Fase 1**, no diretório:
+No momento, o material consolidado neste repositório corresponde às **Fases 1 e 2**, nos diretórios:
 
 - [fase-01/tech-challenge](./fase-01/tech-challenge)
+- [fase-02/tech-challenge](./fase-02/tech-challenge)
 
-Esse diretório contém a entrega completa do **Tech Challenge B**, incluindo:
-
-- notebooks finais;
-- relatório técnico;
-- PDF final;
-- dataset utilizado;
-- resultados e figuras exportadas;
-- ambiente reprodutível com `Dockerfile`.
+Esses diretórios contêm as entregas completas do **Tech Challenge B**, com notebooks finais, relatórios técnicos, datasets, resultados exportados e ambiente reprodutível.
 
 ## Fase 1 - Tech Challenge B
 
@@ -77,8 +72,29 @@ O projeto da Fase 1 foi desenvolvido com foco em **classificação binária de i
 
 - [README da Fase 1](./fase-01/tech-challenge/README.md)
 - [Relatório técnico em Markdown](./fase-01/tech-challenge/relatorio-tecnico.md)
-- [Relatório técnico em PDF](./fase-01/tech-challenge/relatorio-tecnico.pdf)
+- [Relatório técnico em PDF](./fase-01/tech-challenge/relatorio-tecnico-final.pdf)
 - [Notebooks](./fase-01/tech-challenge/notebooks)
+
+## Fase 2 - Tech Challenge B
+
+O projeto da Fase 2 foi desenvolvido com foco em **otimização de rotas para distribuição de medicamentos e insumos** com uso de **algoritmo genético** e geração de artefatos textuais com apoio de **LLMs**.
+
+### Conteúdo principal
+
+- adaptação do `Amazon Delivery Dataset` para o contexto médico;
+- modelagem de roteirização multi-veículo com restrições de capacidade, autonomia e prioridade;
+- comparação entre experimentos com diferentes configurações do algoritmo genético;
+- visualização das rotas otimizadas e da convergência do algoritmo;
+- geração de instruções operacionais, relatório operacional e prompt para LLM;
+- discussão crítica sobre limitações da base e da modelagem adotada.
+
+### Acesso rápido
+
+- [README da Fase 2](./fase-02/tech-challenge/README.md)
+- [Relatório técnico em Markdown](./fase-02/tech-challenge/relatorio-tecnico.md)
+- [Notebooks](./fase-02/tech-challenge/notebooks)
+- [Resultados](./fase-02/tech-challenge/results)
+- [Figuras](./fase-02/tech-challenge/figures)
 
 ## Objetivo deste repositório
 

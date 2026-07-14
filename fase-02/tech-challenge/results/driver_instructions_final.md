@@ -1,0 +1,121 @@
+# Instrucoes de entrega
+
+## Veiculo motorcycle
+- Saida: Store Depot
+- Parada 1: hkom894797717 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 2: lfwa208293592 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 3: ddep263446795 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 4: qcjq538220168 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 5: iiyu960557319 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 6: gbbd486976829 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 7: jhst320613431 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 8: psqf821702971 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 9: rnhw368948578 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 10: jfrm254489578 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 11: mwzs247660287 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 12: qexg537923832 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 13: qmfv567109644 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 14: satt005582002 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 15: cxdl352949745 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 16: bxju415187911 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 17: dwzc530802743 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 18: kdtn329221625 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 19: yjkp810261850 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 20: yjwz638420171 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 21: ermn886478618 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 22: rhle984341791 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 23: tlpt329843818 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 24: ydqa251172766 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 25: cobx423154877 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Retorno: Store Depot
+- Distancia estimada: 135.43
+
+## Veiculo van
+- Saida: Store Depot
+- Parada 1: gemc738622446 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 2: qked442341005 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 3: xhbu064163530 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 4: jexa898688264 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 5: iygr117090576 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 6: nudj930250051 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 7: vxlj924957798 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 8: lnoi159593483 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 9: zwzk798848771 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 10: lqho431780551 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 11: ixaj959923717 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 12: extg545016598 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 13: yeiz266152133 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 14: opjk190252636 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 15: qary241303916 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 16: qmkl408407766 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 17: iwuh041278730 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 18: numx068222108 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 19: plpt842615309 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 20: gqgt459562655 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 21: dogv329362832 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 22: yqva164231827 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 23: aund966842529 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 24: kbcg109935910 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 25: pomn485636176 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 26: qdqs225203666 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 27: ttgu474124447 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 28: mpcf769750886 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 29: ezal611546424 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 30: fmpr669358644 (insumos_medicos) | demanda 3 | prioridade 4
+- Retorno: Store Depot
+- Distancia estimada: 209.77
+
+## Veiculo scooter
+- Saida: Store Depot
+- Parada 1: fxei019975463 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 2: lkvr491157671 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 3: hmhz227296258 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 4: zvwu919035486 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 5: xzru633169943 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 6: zqos751144174 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 7: tfsw100126769 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 8: bxvm741115711 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 9: denx901565248 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 10: czir998618128 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 11: uwwo844265197 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 12: uzqz339199092 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 13: zxfi441536513 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 14: thqo720150669 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 15: twyc427536484 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 16: utay753956067 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 17: vmzy260343210 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 18: mtgh206761081 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 19: awhf508453844 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 20: xfxx325454418 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 21: jadz282664544 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 22: ywiq176328808 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 23: xsde850901013 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 24: hyom195706106 (insumos_medicos) | demanda 3 | prioridade 4
+- Parada 25: bknw159871859 (insumos_medicos) | demanda 3 | prioridade 4
+- Retorno: Store Depot
+- Distancia estimada: 140.83
+
+## Veiculo bicycle
+- Saida: Store Depot
+- Parada 1: ofea608282164 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 2: xohc455307173 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 3: dyrm101245903 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 4: kkoy091714590 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 5: cesx189531513 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 6: mqvp909535115 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 7: fieh579603482 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 8: riyg586632668 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 9: mpmj126993214 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 10: xhrf972438815 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 11: slqh122351236 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 12: wmkz557649002 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 13: apyt524088622 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 14: dlvd980989974 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 15: fujv395849782 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 16: binw038781774 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 17: doip401578377 (insumos_medicos) | demanda 3 | prioridade 5
+- Parada 18: dqbz534241942 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 19: dwan335608513 (medicamentos_criticos) | demanda 2 | prioridade 5
+- Parada 20: xpll879266348 (insumos_medicos) | demanda 3 | prioridade 4
+- Retorno: Store Depot
+- Distancia estimada: 119.67
