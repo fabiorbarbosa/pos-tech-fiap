@@ -17,7 +17,7 @@
 - **Repositório Git:**
 [https://github.com/fabiorbarbosa/pos-tech-fiap/tree/main/fase-02/tech-challenge](https://github.com/fabiorbarbosa/pos-tech-fiap/tree/main/fase-02/tech-challenge)
 - **Vídeo de demonstração:**
-[https://vimeo.com/](https://vimeo.com/)
+[https://vimeo.com/1210042989](https://vimeo.com/1210042989)
 
 ## 1. Introdução
 
