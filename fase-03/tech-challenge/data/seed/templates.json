@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "laudo_laboratorial",
+    "modelo": "LAUDO DE ANÁLISES CLÍNICAS\nPaciente: [NOME_ANONIMIZADO]\nData: [DATA]\nExame: Hemograma completo\nHemoglobina: [VALOR] g/dL (ref: 12-16)\nLeucócitos: [VALOR] /mm³ (ref: 4.000-11.000)\nPlaquetas: [VALOR] /mm³ (ref: 150.000-450.000)\nInterpretação sugerida: Valores dentro/fora dos limites de referência.\nResponsável técnico: [CRM_ANONIMIZADO]"
+  },
+  {
+    "tipo": "receita_modelo",
+    "modelo": "RECEITUÁRIO (SOMENTE APÓS VALIDAÇÃO MÉDICA)\nPaciente: [NOME_ANONIMIZADO]\nPrescrição sugerida pelo assistente (requer assinatura do médico):\n1. [MEDICAMENTO] [DOSE] [VIA] [FREQUÊNCIA] por [DURAÇÃO]\nOrientações: [ORIENTACOES]\nAssinatura e carimbo do médico: ______________________"
+  },
+  {
+    "tipo": "procedimento_interno",
+    "modelo": "CHECKLIST PRÉ-PROCEDIMENTO\nProcedimento: [NOME_PROCEDIMENTO]\n- Confirmar consentimento informado assinado\n- Verificar jejum conforme tipo de anestesia\n- Conferir exames pré-operatórios e alergias\n- Marcação de sítio cirúrgico (quando aplicável)\n- Profilaxia de TEV conforme protocolo institucional\n- Antibiótico profilático até 60 min antes da incisão (se indicado)"
+  }
+]

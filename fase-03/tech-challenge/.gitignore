@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+logs/*.jsonl
+models/
+data/processed/*.jsonl
+data/medical_assistant.db
+.ipynb_checkpoints/
+.DS_Store

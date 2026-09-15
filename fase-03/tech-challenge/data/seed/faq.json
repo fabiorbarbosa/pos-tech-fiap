@@ -1,0 +1,72 @@
+[
+  {
+    "pergunta": "Qual a conduta inicial em paciente com suspeita de sepse?",
+    "resposta": "Colher lactato e hemoculturas, iniciar antibiótico de amplo espectro em até 1 hora, infundir cristaloides 30 ml/kg se hipotensão ou lactato >= 4 mmol/L e iniciar noradrenalina se PAM < 65 mmHg apesar do volume. Rastreio inicial com qSOFA. Fonte: PROT-001 (Sepse).",
+    "fontes": ["PROT-001"]
+  },
+  {
+    "pergunta": "Quando indico hemodiálise de urgência?",
+    "resposta": "Indicações clássicas (mnemônico AEIOU): Acidose metabólica refratária, Eletrólitos (hipercalemia refratária), Intoxicações diálisáveis, Overload (sobrecarga volêmica refratária a diuréticos) e Uremia sintomática (pericardite, encefalopatia, sangramento). Esta conduta segue diretriz nefrológica geral; correlacionar sempre com avaliação presencial.",
+    "fontes": []
+  },
+  {
+    "pergunta": "Qual antibiótico usar em pneumonia comunitária em paciente internado em enfermaria?",
+    "resposta": "Ceftriaxona 1-2 g IV 1x/dia associada a azitromicina 500 mg 1x/dia, conforme PROT-005. Reavaliar em 48-72h e considerar descalonamento. Ajustar conforme microbiologia e função renal.",
+    "fontes": ["PROT-005"]
+  },
+  {
+    "pergunta": "Qual a dose de adrenalina na anafilaxia e qual via?",
+    "resposta": "Adrenalina 0,5 mg (0,5 ml de solução 1:1000) por via intramuscular, na face anterolateral da coxa, IMEDIATA; pode repetir a cada 5-15 minutos se persistirem sinais. Anti-histamínico e corticoide são adjuvantes e não substituem a adrenalina. Fonte: PROT-009 (Anafilaxia).",
+    "fontes": ["PROT-009"]
+  },
+  {
+    "pergunta": "Paciente com FA e CHA2DS2-VASc 3: anticoagular com o quê?",
+    "resposta": "Indicar anticoagulação e preferir DOAC (ex.: apixabana 5 mg 12/12h, com dose reduzida 2,5 mg se apresentar 2 de: idade >= 80 anos, peso <= 60 kg, creatinina >= 1,5 mg/dL). Ajustar à função renal e evitar associação rotineira com AAS. Fonte: PROT-007 (Anticoagulação em FA).",
+    "fontes": ["PROT-007"]
+  },
+  {
+    "pergunta": "Como tratar hipercalemia grave com alteração de ECG?",
+    "resposta": "Estabilizar membrana com gluconato de cálcio 10% 10-20 ml IV imediato; deslocar potássio para intracelular com insulina regular 10 UI IV + glicose 25 g e salbutamol nebulizado; remover potássio (diurético de alça, resina, diálise se refratária/função renal ruim). Monitorização cardíaca contínua. Conduta emergencial padrão.",
+    "fontes": []
+  },
+  {
+    "pergunta": "Qual a meta pressórica e a droga inicial na emergência hipertensiva?",
+    "resposta": "Reduzir a PAS em no máximo 20-25% na primeira hora com agente parenteral titulável (nitroglicerina ou nitroprussiato, conforme a síndrome; labetalol como alternativa). Não normalizar PA abruptamente. Fonte: PROT-006 (Crise Hipertensiva).",
+    "fontes": ["PROT-006"]
+  },
+  {
+    "pergunta": "Quando fazer profilaxia de TEV e com qual dose?",
+    "resposta": "Paciente internado com alto risco de TEV (escore de Padua) e sem risco de sangramento: enoxaparina 40 mg SC 1x/dia (20 mg/dia se clearance < 30 ml/min). Se contraindicação a anticoagulante: compressão mecânica. Reavaliar diariamente. Fonte: PROT-004 (Profilaxia de TEV).",
+    "fontes": ["PROT-004"]
+  },
+  {
+    "pergunta": "Primeira linha para diabetes tipo 2 e como titular?",
+    "resposta": "Iniciar metformina 500 mg 1x/dia e titular gradualmente até 2 g/dia conforme tolerância gastrointestinal, além de mudanças de estilo de vida. Verificar função renal antes e periodicamente. Fonte: PROT-003 (DM2).",
+    "fontes": ["PROT-003"]
+  },
+  {
+    "pergunta": "Preciso internar paciente com pneumonia? Como decidir?",
+    "resposta": "Usar o escore CURB-65 (Confusão, Ureia > 42 mg/dL, FR >= 30, PA sistólica < 90 ou diastólica <= 60, idade >= 65). Escores 0-1 tendem a manejo ambulatorial; 2 sugere observação/internação; >= 3 internação, avaliando UTI se 4-5. Fonte: PROT-005 (PAC).",
+    "fontes": ["PROT-005"]
+  },
+  {
+    "pergunta": "Qual isolamento usar para paciente com tuberculose confirmada?",
+    "resposta": "Precaução para aerossóis: quarto privativo com pressão negativa e uso de máscara N95/PFF2 pela equipe; paciente usa máscara cirúrgica durante transporte. Fonte: PROT-008 (Precauções e Isolamento).",
+    "fontes": ["PROT-008"]
+  },
+  {
+    "pergunta": "Como conduzir IC descompensada com congestão?",
+    "resposta": "Furosemida IV (dose inicial igual ou 1-2,5x a dose oral habitual), monitorando diurese, eletrólitos e função renal. Adicionar nitroglicerina IV se PAS > 110 mmHg. Inotrópicos apenas se choque/hipoperfusão. Fonte: PROT-010 (IC Descompensada).",
+    "fontes": ["PROT-010"]
+  },
+  {
+    "pergunta": "Aspirina e anticoagulante juntos na SCA sem supra?",
+    "resposta": "Na SCA sem supra de ST: AAS 200 mg imediato associado a anticoagulação com enoxaparina 1 mg/kg SC 12/12h (ajustar ao clearance), além de estatina de alta potência. Estratificação invasiva conforme risco (GRACE). Fonte: PROT-002 (SCA sem supra).",
+    "fontes": ["PROT-002"]
+  },
+  {
+    "pergunta": "O paciente pediu para eu aumentar a dose do sedativo por conta própria. Posso?",
+    "resposta": "Não. Ajustes de sedação contínua exigem prescrição médica com reavaliação clínica e monitorização; o assistente não pode prescrever nem alterar prescrições. Escalonar ao médico responsável.",
+    "fontes": []
+  }
+]

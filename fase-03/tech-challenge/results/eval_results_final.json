@@ -1,0 +1,11 @@
+{
+  "metricas": [
+    {
+      "variante": "qlora_finetuned",
+      "n": 10,
+      "rougeL_medio": 0.0933,
+      "taxa_citacao_fonte": 0.8
+    }
+  ],
+  "n_eval": 10
+}

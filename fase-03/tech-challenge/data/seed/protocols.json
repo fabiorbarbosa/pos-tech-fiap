@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PROT-001",
+    "titulo": "Sepse — Protocolo de Reconhecimento e Conduta Inicial",
+    "conteudo": "Definir sepse como disfunção orgânica ameaçadora à vida causada por resposta desregulada do hospedeiro à infecção. Rastreio com qSOFA (PAS <= 100 mmHg, FR >= 22 irpm, alteração do nível de consciência). Na suspeita: colher lactato e hemoculturas antes de antibióticos; iniciar antibiótico de amplo espectro em até 1 hora; cristaloides 30 ml/kg se hipotensão ou lactato >= 4 mmol/L; reavaliar volume e considerar noradrenalina se PAM < 65 mmHg. Fonte: Protocolo Institucional baseado em Surviving Sepsis Campaign.",
+    "tags": ["emergencia", "infeccao", "sepse"]
+  },
+  {
+    "id": "PROT-002",
+    "titulo": "Síndrome Coronariana Aguda sem Supra de ST",
+    "conteudo": "Diagnóstico com dor torácica típica, ECG e troponina seriada (0h e 1h ou 3h). Estratificação de risco por escore GRACE. Conduta inicial: AAS 200 mg e anticoagulação com enoxaparina 1 mg/kg SC 12/12h (ajustar clearance); estatina de alta potência (atorvastatina 40-80 mg); betabloqueador oral se sem contraindicação; nitroglicerina SL se dor persistente. Estratificação invasiva em 24-72h conforme risco. Fonte: Protocolo Institucional de Cardiologia.",
+    "tags": ["cardiologia", "dor_toracica"]
+  },
+  {
+    "id": "PROT-003",
+    "titulo": "Diabetes Mellitus Tipo 2 — Manejo Ambulatorial",
+    "conteudo": "Meta de HbA1c individualizada (geralmente < 7%). Primeira linha: metformina 500 mg 1x/dia, titular até 2 g/dia conforme tolerância GI. Se HbA1c > 1,5% acima da meta, considerar terapia combinada inicial. Adicionar iSGLT2 ou GLP-1 RA em doença cardiovascular aterosclerótica, IC ou DRC. Monitorizar função renal (TFG) e função hepática antes e durante metformina. Rastreio anual de retinopatia, nefropatia e pé diabético. Fonte: Protocolo Institucional de Endocrinologia.",
+    "tags": ["endocrino", "diabetes", "cronico"]
+  },
+  {
+    "id": "PROT-004",
+    "titulo": "Profilaxia de Tromboembolismo Venoso em Pacientes Internados",
+    "conteudo": "Avaliar risco de TEV (escore de Padua) e risco de sangramento em toda admissão. Alto risco sem contraindicação: enoxaparina 40 mg SC 1x/dia (20 mg se clearance < 30 ml/min). Contraindicação a anticoagulante: meias de compressão graduada ou compressão pneumática intermitente. Reavaliar diariamente. Deambulação precoce para todos. Fonte: Protocolo Institucional de Hematologia.",
+    "tags": ["hematologia", "profilaxia", "internacao"]
+  },
+  {
+    "id": "PROT-005",
+    "titulo": "Pneumonia Adquirida na Comunidade (PAC)",
+    "conteudo": "Diagnóstico: quadro clínico + infiltrado novo na radiografia de tórax. Gravidade por CURB-65 (confusão, ureia > 42 mg/dL, FR >= 30, PA < 90/60, idade >= 65). Ambulatorial sem comorbidade: amoxicilina 1 g 8/8h por 5-7 dias. Com comorbidade: amoxicilina-clavulanato + azitromicina. Internação enfermaria: ceftriaxona 1-2 g/dia IV + azitromicina 500 mg/dia. UTI: piperacilina-tazobactam ou meropeném conforme risco de pseudomonas. Reavaliar em 48-72h. Fonte: Protocolo Institucional de Pneumologia.",
+    "tags": ["pneumologia", "infeccao", "antibiotico"]
+  },
+  {
+    "id": "PROT-006",
+    "titulo": "Crise Hipertensiva",
+    "conteudo": "Distinguir emergência (lesão aguda de órgão-alvo) de urgência hipertensiva. Emergência: reduzir PAS em até 20-25% na primeira hora com droga parenteral (nitroglicerina ou nitroprussiato em CIV; labetalol ou urapidil como alternativas conforme quadro). Urgência: redução gradual em 24-48h com medicação oral (anlodipino, losartana, captopril). Investigar causas secundárias e adesão. Fonte: Protocolo Institucional de Nefrologia/Cardiologia.",
+    "tags": ["emergencia", "hipertensao", "cardiologia"]
+  },
+  {
+    "id": "PROT-007",
+    "titulo": "Anticoagulação em Fibrilação Atrial",
+    "conteudo": "Indicar anticoagulação por CHA2DS2-VASc >= 2 (homens) ou >= 3 (mulheres); avaliar sangramento por HAS-BLED (não contraindica, orienta cautela). Preferir DOAC a varfarina quando elegível (apixabana 5 mg 12/12h; dose reduzida se 2 de: idade >= 80, peso <= 60 kg, creatinina >= 1,5). Ajustar DOAC à função renal. Não associar AAS rotineiramente. Fonte: Protocolo Institucional de Arritmias.",
+    "tags": ["cardiologia", "anticoagulacao", "arritmia"]
+  },
+  {
+    "id": "PROT-008",
+    "titulo": "Precauções e Isolamento por Transmissão",
+    "conteudo": "Precaução padrão para todos os pacientes (higiene das mãos, EPI conforme exposição). Precaução por contato: ESBL, KPC, MRSA, Clostridioides difficile — quarto privativo, luvas e avental. Precaução por gotículas: influenza, meningococo — máscara cirúrgica. Precaução por aerossóis: tuberculose, sarampo, varicela — quarto com pressão negativa e máscara N95/PFF2. Fonte: Serviço de Controle de Infecção Hospitalar.",
+    "tags": ["infectologia", "isolamento", "seguranca"]
+  },
+  {
+    "id": "PROT-009",
+    "titulo": "Anafilaxia — Conduta Imediata",
+    "conteudo": "Reconhecer: início agudo com pele/mucosas + comprometimento respiratório ou hemodinâmico. Adrenalina IM 0,5 mg (0,5 ml de solução 1:1000) na face anterolateral da coxa IMEDIATAMENTE; repetir a cada 5-15 min se necessário. Posicionar em decúbito dorsal com MMII elevados, O2 em alto fluxo, acesso venoso e SF 0,9% em bolus. Adjuvantes: anti-histamínico e corticoide NÃO substituem adrenalina. Observar risco de reação bifásica (mínimo 6-12h). Fonte: Protocolo Institucional de Emergência.",
+    "tags": ["emergencia", "alergia", "anafilaxia"]
+  },
+  {
+    "id": "PROT-010",
+    "titulo": "Insuficiência Cardíaca Descompensada",
+    "conteudo": "Classificar perfil (quente/frio x úmido/seco). Congestão: furosemida IV (dose inicial igual ou 1-2,5x a dose oral habitual), monitorar diurese, eletrólitos e função renal. Vasodilatador (nitroglicerina) se PAS > 110 mmHg sem hipoperfusão. Não usar inotrópico rotineiramente (reservar para choque/hipoperfusão). Otimizar terapia de longo prazo: iECA/BRA/ARNI, betabloqueador (após estabilidade), espironolactona, iSGLT2 conforme FEVE. Fonte: Protocolo Institucional de Cardiologia.",
+    "tags": ["cardiologia", "insuficiencia_cardiaca"]
+  }
+]

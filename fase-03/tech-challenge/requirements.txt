@@ -1,0 +1,22 @@
+# Núcleo de LLM / fine-tuning (QLoRA)
+torch>=2.2
+transformers>=4.44
+peft>=0.12
+trl>=0.9
+datasets>=2.20
+accelerate>=0.33
+bitsandbytes>=0.43 ; platform_system != "Darwin"  # QLoRA 4-bit (CUDA/Colab)
+
+# Orquestração do assistente
+langchain>=0.3
+langchain-community>=0.3
+langchain-huggingface>=0.1
+langgraph>=0.2
+
+# RAG
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+
+# Utilidades
+pydantic>=2.7
+python-dotenv>=1.0
