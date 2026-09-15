@@ -27,6 +27,7 @@ Este repositório foi organizado para acompanhar a evolução da pós ao longo d
 ├── fase-02/
 │   └── tech-challenge/
 ├── fase-03/
+│   └── tech-challenge/
 ├── fase-04/
 └── fase-05/
 ```
@@ -48,12 +49,13 @@ Este repositório foi organizado para acompanhar a evolução da pós ao longo d
 
 ## Status atual do repositório
 
-No momento, o material consolidado neste repositório corresponde às **Fases 1 e 2**, nos diretórios:
+No momento, o material consolidado neste repositório corresponde às **Fases 1, 2 e 3**, nos diretórios:
 
 - [fase-01/tech-challenge](./fase-01/tech-challenge)
 - [fase-02/tech-challenge](./fase-02/tech-challenge)
+- [fase-03/tech-challenge](./fase-03/tech-challenge)
 
-Esses diretórios contêm as entregas completas do **Tech Challenge B**, com notebooks finais, relatórios técnicos, datasets, resultados exportados e ambiente reprodutível.
+Esses diretórios contêm as entregas completas dos Tech Challenges, com notebooks finais, relatórios técnicos, datasets, resultados exportados e ambiente reprodutível.
 
 ## Fase 1 - Tech Challenge B
 
@@ -95,6 +97,29 @@ O projeto da Fase 2 foi desenvolvido com foco em **otimização de rotas para di
 - [Notebooks](./fase-02/tech-challenge/notebooks)
 - [Resultados](./fase-02/tech-challenge/results)
 - [Figuras](./fase-02/tech-challenge/figures)
+
+## Fase 3 - Tech Challenge
+
+O projeto da Fase 3 implementa um **assistente médico virtual de apoio à decisão clínica**, combinando fine-tuning QLoRA, RAG sobre protocolos internos, LangChain/LangGraph, consulta de prontuário sintético, guardrails e auditoria.
+
+### Conteúdo principal
+
+- dataset médico 100% sintético com anonimização e curadoria;
+- fine-tuning QLoRA de `Qwen/Qwen2.5-0.5B-Instruct`;
+- recuperação de protocolos com FAISS e fallback lexical offline;
+- consulta contextualizada a prontuário SQLite;
+- bloqueio de prescrição direta, validação de saída e auditoria JSONL;
+- avaliação com ROUGE-L e taxa de citação de fonte;
+- demo offline, testes automatizados e Dockerfile.
+
+### Acesso rápido
+
+- [README da Fase 3](./fase-03/tech-challenge/README.md)
+- [Relatório técnico em Markdown](./fase-03/tech-challenge/relatorio-tecnico.md)
+- [Relatório técnico em PDF](./fase-03/tech-challenge/relatorio-tecnico.pdf)
+- [Notebook de fine-tuning](./fase-03/tech-challenge/notebooks)
+- [Resultados](./fase-03/tech-challenge/results)
+- [Figuras](./fase-03/tech-challenge/figures)
 
 ## Objetivo deste repositório
 
